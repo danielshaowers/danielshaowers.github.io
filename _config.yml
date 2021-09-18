@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Daniel Shao
+tagline:          'HST and Chess'
+description:      'A blog of Daniel Shao's PhD journey at Harvard-MIT's MEMP program.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Daniel Shao'
+  url:            github.com/danielshaowers
 
 paginate:         5
 
