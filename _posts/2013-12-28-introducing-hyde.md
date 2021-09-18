@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About Me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hello! I'm Daniel Shao. I'm a first year student at MIT-Harvard's Health Sciences and Technology (HST) Program in Medical Engineering and Medical Physics (MEMP). I'm broadly interested in developing machine learning algorithms with clinical applications. I'm hoping to use this blog as an opportunity to document and share various concepts I learn along the way. Hopefully it can serve as guidance for those interested in getting started on similar career paths in the future! In my free time I love to play chess, so I'll also include some details of what I'm studying there! If I'm not studying or researching, you can probably find me playing chess at Harvard Square.
+### My research
 
-### Built on Poole
-
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+I've done a variety of research projects in my undergrad. Including
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
+* Bacterial shape regulation at the Rutgers Camden Klein lab
+* 
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
