@@ -9,28 +9,22 @@ Hello! I'm Daniel Shao. I'm a first year student at MIT-Harvard's Health Science
 I've done a variety of research projects in my undergrad. Including
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Bacterial shape regulation at the Rutgers Camden Klein lab
-* 
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Bacterial shape regulation at the Rutgers-Camden Klein lab
+* Malaria proteomics at the Center for Global Health and Disease
+* Chemical electrophoresis for drug polymerization at Primera Inc.
+* Cholestatic liver pathology at the University of Pittsburgh's Nejak-Bowen Lab
+* Computational pathology to prognosticate Disease Free Survival at the Madabhushi Lab
 
-### Hyde features
+Starting this September, I'll be rotating at Faisal Mahmood's Lab at the Brigham Womens Hospital, where I'll be conducting further research in computational pathology.
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+### Coursework
+As part of the MEMP graduation requirements, I'm required to take 4 Technical electives in computer science, along with a variety of clinical courses at Harvard Medical School. This semester, I'll be taking the following and hopefully sharing some of what I learn along the way!
+* 6.867 Machine Learning (MIT)
+* HST.030 Human Pathology (HMS)
+* HST.590 Biomedical Engineering Seminar Series (HST)
+* HST.160 Genetics in Modern Medicine (HMS)
 
 [Head to the readme](https://github.com/poole/hyde#readme) to learn more.
 
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+### Chess
+I got into chess after watching the Queen's Gambit in December 2020. Since then, I've been studying pretty intensely. Most notably by watching some youtubers like Daniel Naroditsky's speedrun, the Botez sisters, and Gothamchess. I've also been reading up on
