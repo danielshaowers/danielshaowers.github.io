@@ -1,6 +1,6 @@
 ---
-layout : default
-title : intro
+layout: page
+title: Immunology
 ---
 
 # The Basics
