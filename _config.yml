@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Daniel Shao
 tagline:          'HST and Chess'
-description:      'A blog of Daniel Shao's PhD journey at Harvard-MIT's MEMP program.'
+description:      "A blog of Daniel Shao's PhD journey at Harvard-MIT's MEMP program."
 url:              http://hyde.getpoole.com
 baseurl:          /
 
