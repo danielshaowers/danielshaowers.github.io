@@ -3,11 +3,9 @@ layout: post
 title: Self Attention
 ---
 
-# Important resources
-[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)
-
 
 # Self-attention vs Traditional attention
+Useful resource: [The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)
 Normal attention (with clam) examines the relationship of each patch towards the final prognosis.
 
 In contrast, self-attention examines the relationship of each patch with each other.
