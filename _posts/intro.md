@@ -8,14 +8,13 @@ Hello! I'm Daniel Shao. I'm a first year student at MIT-Harvard's Health Science
 
 I've done a variety of research projects in my undergrad. Including
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Bacterial shape regulation at the Rutgers-Camden Klein lab
 * Malaria proteomics at the Center for Global Health and Disease
 * Chemical electrophoresis for drug polymerization at Primera Inc.
 * Cholestatic liver pathology at the University of Pittsburgh's Nejak-Bowen Lab
 * Computational pathology to prognosticate Disease Free Survival at the Madabhushi Lab
 
-Starting this September, I'll be rotating at Faisal Mahmood's Lab at the Brigham Womens Hospital, where I'll be conducting further research in computational pathology.
+I'm fortunate enough to be a member of Faisal Mahmood's Lab at the Brigham Womens Hospital, where I'll be studying the use of longitudinal data for patient prognosis.
 
 ### Coursework
 As part of the MEMP graduation requirements, I'm required to take 4 Technical electives in computer science, along with a variety of clinical courses at Harvard Medical School. This semester, I'll be taking the following and hopefully sharing some of what I learn along the way!
@@ -27,4 +26,4 @@ As part of the MEMP graduation requirements, I'm required to take 4 Technical el
 [Head to the readme](https://github.com/poole/hyde#readme) to learn more.
 
 ### Chess
-I got into chess after watching the Queen's Gambit in December 2020. Since then, I've been studying pretty intensely. Most notably by watching some youtubers like Daniel Naroditsky's speedrun, the Botez sisters, and Gothamchess. I've also been reading up on
+I got into chess after watching the Queen's Gambit in December 2020. Since then, I've been studying pretty intensely. Most notably by watching some youtubers like Daniel Naroditsky's speedrun, the Botez sisters, and Gothamchess.
