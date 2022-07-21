@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Immunology
+layout: post
+title: Basics
 ---
 
 # The Basics
