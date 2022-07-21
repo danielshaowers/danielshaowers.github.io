@@ -23,11 +23,14 @@
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
+          {% if node.layout == "pages" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
+      <a class="sidebar-nav-item" href="/Immunology/navigation.md"<Immunology<\a>
+      <a class="sidebar-nav-item" href="/MachineLearning/navigation.md"<Machine Learning<\a>
+      <a class="sidebar-nav-item" href="/Chess/navigation.md"<Chess<\a>
       <a class="sidebar-nav-item" target="_blank" href="https://lichess.org/study/search?q=owner%3ADanielShaowers+">Lichess studies</a>
       <a class="sidebar-nav-item" target="_blank" href="https://hst.mit.edu/news-events/hst-memp-incoming-class-2021">HST profile</a>
       <a class="sidebar-nav-item" target="_blank" href="https://faisal.ai/">Mahmood Lab</a>
