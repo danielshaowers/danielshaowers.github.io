@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Immunology
 ---
 
@@ -8,4 +8,4 @@ I would like to one day have it expand upon clicking in a filetree fashion rathe
 
 1. [Basics]({% link Immunology/notes/Basics.md %})
 
-The path is relative to the root directory (where the config file is), not the path of this file. 
+The path is relative to the root directory (where the config file is), not the path of this file.
