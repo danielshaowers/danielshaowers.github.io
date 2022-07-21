@@ -1,3 +1,4 @@
+---
 layout: page
 title: My Setup
 ---
@@ -18,7 +19,7 @@ I'm up to 80 WPM after typing in Dvorak for 3 months. Here are my overall though
 
 ## Autohotkey
 
-I cannot speak enough praise about autohotkey. Essentially it's a program that lets you set up custom hotkeys to make typing more efficient. For instance, when I hit "Caps Lock" and "backspace" together, it deletes the entire word rather than a single letter. Additionally it always annoyed me that I would have to move my hand to use the arrowkeys, so I made some hotkeys such that "caps lock" with h goes left, i goes up, t goes down, n goes left (the same orientation as with arrow keys, but now i dont have to move my fingers).
+I cannot speak enough praise about autohotkey. Essentially it's a program that lets you set up custom hotkeys to make typing more efficient. For instance, when I hit "Caps Lock" and "backspace" together, it deletes the entire word rather than a single letter. Additionally it always annoyed me that I would have to move my hand to use the arrowkeys, so I made some hotkeys such that "caps lock" with h goes left, i goes up, t goes down, n goes left (the same orientation as with arrow keys, but now i dont have to move my fingers from the homekeys).
 Lastly I have an autohotkey such that caps lock only activates when i tap it twice. This way caps lock doesnt turn on every time i try to use my hotkeys.
 
 These may sound like small differences, but trust me in the long run it makes a huge difference! try it out if you want, I'll attach the code to the scripts below.  
