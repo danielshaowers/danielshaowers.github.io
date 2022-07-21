@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Immunology
+permalink: Immunology.md
 ---
 
 This will be my home directory for immunology notes. somehow I would like it if this could direct to all my notes
