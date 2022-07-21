@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-
+<!-- index.html is the default name for a home page -->
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts %} <!-- this loops through all the elements in paginator.posts so that we can get multiple posts in a page -->
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">

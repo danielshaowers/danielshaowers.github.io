@@ -14,7 +14,7 @@ I've done a variety of research projects in my undergrad. Including
 * Cholestatic liver pathology at the University of Pittsburgh's [Nejak-Bowen Lab](https://path.upmc.edu/personnel/Faculty/Nejak-Bowen.htm)
 * Computational pathology to prognosticate Disease Free Survival at the [Madabhushi Lab](https://engineering.case.edu/centers/ccipd/)
 
-I'm a happy member of Faisal Mahmood's Lab at the Brigham and Women's Hospital, where I'll be studying the use of longitudinal data for patient prognosis.
+I'm a fortunate member of Faisal Mahmood's Lab at the Brigham and Women's Hospital, where I'm studying the analysis of longitudinal data for patient prognosis.
 
 ### Coursework
 As part of the MEMP graduation requirements, I'm required to take 4 Technical electives in computer science, along with a variety of clinical courses at Harvard Medical School. This semester, I'll be taking the following and hopefully sharing some of what I learn along the way!
