@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Daniel Shao
 tagline:          'HST and Chess'
-description:      "I just want to cure cancer, play chess, and spend time with my wonderful partner"
+description:      "I just want to build models, play chess, and spend time with my wonderful partner"
 url:              http://hyde.getpoole.com
 baseurl:          /
 
