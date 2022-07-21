@@ -1,7 +1,7 @@
 ---
-layout: post
-title: test post
-last_updated: 7 21, 2022
+layout : post
+title : test post
+last_updated : 7 21, 2022
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):

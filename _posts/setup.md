@@ -1,6 +1,6 @@
 ---
-layout: page
-title: My Setup
+layout : page
+title : My Setup
 ---
 
 <p class="message">
