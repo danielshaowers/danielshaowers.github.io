@@ -1,6 +1,6 @@
 ---
-layout : post
-title : My Setup
+layout: post
+title: My Setup
 ---
 
 <p class="message">
